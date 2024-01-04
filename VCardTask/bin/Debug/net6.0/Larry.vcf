@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Rose;Larry;;;
+FN:Larry Rose
+TEL;TYPE=work,voice;VALUE=uri:tel:(666) 409-0371
+ADR;TYPE=home;LABEL=Omaha
+United States:;;
+EMAIL:larry.rose@example.com
+END:VCARD

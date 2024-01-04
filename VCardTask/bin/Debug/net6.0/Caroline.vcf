@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Melbø;Caroline;;;
+FN:Caroline Melbø
+TEL;TYPE=work,voice;VALUE=uri:tel:64956737
+ADR;TYPE=home;LABEL=Frogner
+Norway:;;
+EMAIL:caroline.melbo@example.com
+END:VCARD

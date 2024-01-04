@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Vicente;Iván;;;
+FN:Iván Vicente
+TEL;TYPE=work,voice;VALUE=uri:tel:919-513-101
+ADR;TYPE=home;LABEL=Burgos
+Spain:;;
+EMAIL:ivan.vicente@example.com
+END:VCARD

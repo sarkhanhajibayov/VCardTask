@@ -1,0 +1,17 @@
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\VCardTask.exe
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\VCardTask.deps.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\VCardTask.runtimeconfig.json
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\VCardTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\VCardTask.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.AssemblyInfoInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.AssemblyInfo.cs
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.csproj.CoreCompileInputs.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\refint\VCardTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.pdb
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.genruntimeconfig.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\ref\VCardTask.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.csproj.AssemblyReference.cache
+C:\Users\Sarxan\Desktop\Projects\_Angular_Learning\eCommerce\VCardTask\VCardTask\obj\Debug\net6.0\VCardTask.csproj.CopyComplete

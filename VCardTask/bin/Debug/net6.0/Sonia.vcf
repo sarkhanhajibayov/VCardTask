@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Arce;Sonia;;;
+FN:Sonia Arce
+TEL;TYPE=work,voice;VALUE=uri:tel:(647) 708 3868
+ADR;TYPE=home;LABEL=Cananea
+Mexico:;;
+EMAIL:sonia.arce@example.com
+END:VCARD

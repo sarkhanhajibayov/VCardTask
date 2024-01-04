@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:حیدری;علیرضا;;;
+FN:علیرضا حیدری
+TEL;TYPE=work,voice;VALUE=uri:tel:032-61767318
+ADR;TYPE=home;LABEL=رشت
+Iran:;;
+EMAIL:aalyrd.hydry@example.com
+END:VCARD

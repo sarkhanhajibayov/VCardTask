@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Leclerc;Virginia;;;
+FN:Virginia Leclerc
+TEL;TYPE=work,voice;VALUE=uri:tel:077 666 07 34
+ADR;TYPE=home;LABEL=Schöftland
+Switzerland:;;
+EMAIL:virginia.leclerc@example.com
+END:VCARD

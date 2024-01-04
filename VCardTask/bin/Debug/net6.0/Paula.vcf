@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Núñez;Paula;;;
+FN:Paula Núñez
+TEL;TYPE=work,voice;VALUE=uri:tel:968-027-611
+ADR;TYPE=home;LABEL=Torrente
+Spain:;;
+EMAIL:paula.nunez@example.com
+END:VCARD

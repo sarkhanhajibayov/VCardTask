@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Gilbert;Adam;;;
+FN:Adam Gilbert
+TEL;TYPE=work,voice;VALUE=uri:tel:017683 07264
+ADR;TYPE=home;LABEL=Stirling
+United Kingdom:;;
+EMAIL:adam.gilbert@example.com
+END:VCARD

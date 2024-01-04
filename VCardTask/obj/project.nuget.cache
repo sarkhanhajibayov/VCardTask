@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmNQ6k0cmnTuSY+eLqtNo0MWojlI3vg+0AapYfBxhCOt8qMbNOguhbutSnPPzdxDB8QOwCSy+Lg2/GWnSLm+pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarxan\\Desktop\\Projects\\_Angular_Learning\\eCommerce\\VCardTask\\VCardTask\\VCardTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarxan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

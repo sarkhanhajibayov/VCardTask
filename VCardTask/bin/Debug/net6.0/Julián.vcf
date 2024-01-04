@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Hernández;Julián;;;
+FN:Julián Hernández
+TEL;TYPE=work,voice;VALUE=uri:tel:963-861-322
+ADR;TYPE=home;LABEL=Córdoba
+Spain:;;
+EMAIL:julian.hernandez@example.com
+END:VCARD

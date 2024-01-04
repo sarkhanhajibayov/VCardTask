@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Collins;Tracy;;;
+FN:Tracy Collins
+TEL;TYPE=work,voice;VALUE=uri:tel:0171 130 3398
+ADR;TYPE=home;LABEL=Dundee
+United Kingdom:;;
+EMAIL:tracy.collins@example.com
+END:VCARD
